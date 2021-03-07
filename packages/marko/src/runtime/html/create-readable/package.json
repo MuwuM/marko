@@ -6,7 +6,7 @@
     "exports": {
         ".": {
             "default": "./index.js",
-            "worker": "./index.js",
+            "worker": "./index-browser.js",
             "browser": "./index-browser.js"
         }
     }
