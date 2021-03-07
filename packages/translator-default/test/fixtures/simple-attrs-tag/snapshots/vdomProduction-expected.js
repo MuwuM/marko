@@ -4,7 +4,7 @@ export default _marko_template;
 import "marko/dist/runtime/vdom/preserve-attrs";
 import _marko_renderer from "marko/dist/runtime/components/renderer";
 import { t as _t } from "marko/dist/runtime/vdom";
-import { r as _marko_registerComponent } from "marko/dist/runtime/components/registry-browser";
+import { r as _marko_registerComponent } from "marko/dist/runtime/components/registry";
 
 const _marko_componentType = _marko_registerComponent("YUZPhHIa", () => _marko_template),
       _marko_component = {};

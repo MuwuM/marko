@@ -7,7 +7,7 @@ const _marko_node = _marko_createElement("script", null, "1", null, 3, 0).t("\n 
 
 import _marko_renderer from "marko/dist/runtime/components/renderer";
 import { t as _t } from "marko/dist/runtime/vdom";
-import { r as _marko_registerComponent } from "marko/dist/runtime/components/registry-browser";
+import { r as _marko_registerComponent } from "marko/dist/runtime/components/registry";
 
 const _marko_componentType = _marko_registerComponent("jxXJawbJ", () => _marko_template),
       _marko_component = {};

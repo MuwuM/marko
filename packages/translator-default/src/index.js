@@ -219,7 +219,7 @@ export const translate = {
               : t.callExpression(
                   importNamed(
                     file,
-                    "marko/src/runtime/components/registry-browser",
+                    "marko/src/runtime/components/registry",
                     "r",
                     "marko_registerComponent"
                   ),

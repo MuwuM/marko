@@ -1,5 +1,5 @@
-var defineComponent = require("./defineComponent");
-require(".");
+var defineComponent = require("../defineComponent");
+require("../entry");
 
 var registered = {};
 var loaded = {};
